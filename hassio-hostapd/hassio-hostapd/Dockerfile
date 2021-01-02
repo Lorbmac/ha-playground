@@ -1,4 +1,4 @@
-#FROM hassio-hostapd:1.0.3
+FROM hassio-hostapd:1.0.3
 
 #MAINTAINER David Ramos <info@davidramosweb.com>
 
