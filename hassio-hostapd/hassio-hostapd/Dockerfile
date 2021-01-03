@@ -1,4 +1,5 @@
-FROM hassio-hostapd:1.0.3
+ARG BUILD_FROM
+FROM $BUILD_FROM
 
 #MAINTAINER David Ramos <info@davidramosweb.com>
 
